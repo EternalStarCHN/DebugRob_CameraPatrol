@@ -60,9 +60,7 @@ public:
   afx_msg void OnBnClickedBt_ImageIdentification();
   afx_msg void OnBnClickedBttakephoto();
   void ImageRecognition(Mat src);
-  afx_msg void BTImageRecognition_3or4();  //34图像识别测试
-  afx_msg void BTImageRecognition_5or6();  //56图像识别测试
-  afx_msg void BTImageRecognition_7or8();  //78图像识别测试
+  void CameraPatrol();
   /* 路线相关函数********************************************/
   afx_msg void OnBnClickedBtrst();//重置自动驾驶
   afx_msg void OnBnClickedBtStopautodrive();//停止自动驾驶
