@@ -2,7 +2,6 @@
 // Microsoft Visual C++ 生成的包含文件。
 // 供 autocar.rc 使用
 //
-#define IDCANCEL2                       3
 #define IDM_ABOUTBOX                    0x0010
 #define IDD_ABOUTBOX                    100
 #define IDS_ABOUTBOX                    101
@@ -79,6 +78,7 @@
 #define IDC_EDITLINEBOTTON              1052
 #define IDC_BTID56                      1052
 #define IDC_BTSCANNUMBER                1053
+#define IDC_BTJULEI                     1053
 #define IDC_EDITSCANNUMBER              1054
 #define IDC_BTID78                      1054
 #define IDC_EDITLOCATION                1055
@@ -107,6 +107,8 @@
 #define IDC_BTRST                       1076
 #define IDC_BT_StopAutoDrive            1077
 #define IDC_STATICEXPLAIN               1078
+#define IDC_BTQYFG                      1079
+#define IDC_EDIT1                       1081
 
 // Next default values for new objects
 // 
@@ -114,7 +116,7 @@
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        131
 #define _APS_NEXT_COMMAND_VALUE         32771
-#define _APS_NEXT_CONTROL_VALUE         1079
+#define _APS_NEXT_CONTROL_VALUE         1082
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
 #endif

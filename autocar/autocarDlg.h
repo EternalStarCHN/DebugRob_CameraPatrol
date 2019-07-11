@@ -59,6 +59,8 @@ public:
   afx_msg void OnBnClickedBt_AutoDrive();
   afx_msg void OnBnClickedBt_ImageIdentification();
   afx_msg void OnBnClickedBttakephoto();
+  afx_msg void OnBnClickedBtjl();
+  afx_msg void OnBnClickedBtqyfg();
   void ImageRecognition(Mat src);
   void CameraPatrol();
   /* 路线相关函数********************************************/
