@@ -36,6 +36,7 @@
 #define IDC_ImageBox4                   1019
 #define IDC_EDITRIGHTPWM2               1020
 #define IDC_EDITLIMITPWM2               1020
+#define IDC_ImageBox5                   1020
 #define IDC_BTOPEN                      1021
 #define IDC_EDITSEND                    1022
 #define IDC_BTCLOSE                     1023
@@ -48,8 +49,11 @@
 #define IDC_EDITSHOW                    1027
 #define IDC_EDITGYRO                    1028
 #define IDC_BTCLEARSHOW                 1028
+#define IDC_ImageBox6                   1028
 #define IDC_EDITLEFTCLOCKADD            1029
+#define IDC_ImageBox7                   1029
 #define IDC_EDITRIGHTCLOCKADD           1030
+#define IDC_ImageBox8                   1030
 #define IDC_BTCLEARCLOCK                1031
 #define IDC_EDITGYRO2                   1032
 #define IDC_EDITGYRODEGREE              1032
@@ -108,7 +112,6 @@
 #define IDC_BT_StopAutoDrive            1077
 #define IDC_STATICEXPLAIN               1078
 #define IDC_BTQYFG                      1079
-#define IDC_EDIT1                       1081
 
 // Next default values for new objects
 // 
@@ -116,7 +119,7 @@
 #ifndef APSTUDIO_READONLY_SYMBOLS
 #define _APS_NEXT_RESOURCE_VALUE        131
 #define _APS_NEXT_COMMAND_VALUE         32771
-#define _APS_NEXT_CONTROL_VALUE         1082
+#define _APS_NEXT_CONTROL_VALUE         1083
 #define _APS_NEXT_SYMED_VALUE           101
 #endif
 #endif

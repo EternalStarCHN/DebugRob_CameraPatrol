@@ -28,31 +28,30 @@ g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(901): warning C4018: “
 g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(904): warning C4018: “<”: 有符号/无符号不匹配
 g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1007): warning C4018: “<”: 有符号/无符号不匹配
 g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1010): warning C4018: “<”: 有符号/无符号不匹配
-g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1167): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1170): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
           with
           [
               _Tp=float
           ]
-g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1168): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
+g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1171): warning C4244: “=”: 从“int”转换到“_Tp”，可能丢失数据
           with
           [
               _Tp=float
           ]
-g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1169): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1172): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
           with
           [
               _Tp=float
           ]
-g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1170): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1173): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
           with
           [
               _Tp=float
           ]
-g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1171): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
+g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1174): warning C4244: “=”: 从“double”转换到“_Tp”，可能丢失数据
           with
           [
               _Tp=float
           ]
-g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1181): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-autocar.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1184): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
   autocar.vcxproj -> G:\Desktop\DebugRob_CameraPatrol\Debug\autocar.exe
