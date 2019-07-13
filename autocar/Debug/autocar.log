@@ -1,13 +1,4 @@
 ﻿cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
-  stdafx.cpp
-cl : 命令行 warning D9035: “Gm”选项已否决，并将在将来的版本中移除
-  算术编码.cpp
-  SerialPort.cpp
-  ComPort.cpp
-  DebugRob.cpp
-g:\desktop\debugrob_camerapatrol\autocar\opencv\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
-  CvvImage.cpp
   autocarDlg.cpp
 g:\desktop\debugrob_camerapatrol\autocar\opencv\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
   c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
@@ -63,9 +54,5 @@ g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1171): warning C4244: �
               _Tp=float
           ]
 g:\desktop\debugrob_camerapatrol\autocar\autocardlg.cpp(1181): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
-  autocar.cpp
-g:\desktop\debugrob_camerapatrol\autocar\opencv\opencv2\flann\logger.h(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\stdio.h(208): note: 参见“fopen”的声明
-  正在生成代码...
 autocar.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
   autocar.vcxproj -> G:\Desktop\DebugRob_CameraPatrol\Debug\autocar.exe
