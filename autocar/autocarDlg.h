@@ -64,11 +64,9 @@ public:
   void ImageRecognition(Mat src);
   void CameraPatrol();
   /* 路线相关函数********************************************/
-  afx_msg void OnBnClickedBtrst();//重置自动驾驶
   afx_msg void OnBnClickedBtStopautodrive();//停止自动驾驶
   afx_msg void OnTimer(UINT_PTR nIDEvent);
   CString m_locationgold;
-  CString tex;//用于输出
   int Findrst(char a[]);//判断是否重置标志函数
   /* 两种模式相关函数********************************************/
   void Mode(PointMode_t pointMode, int8_t command);//传输协议
